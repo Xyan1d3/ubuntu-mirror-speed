@@ -11,7 +11,7 @@
 - Doesn't use Java... :)
 ![Sick_Help_Message](img/mirror_tester_help.png)
 
-# Installation
+# ⚙️ Installation
 ```bash
 sudo apt install python3 python3-pip
 git clone https://github.com/Xyan1d3/ubuntu_mirror_tester.git
@@ -19,7 +19,7 @@ cd ubuntu_mirror_tester/
 pip3 install -r requirements.txt
 ```
 
-# Usage
+# 🤸 Usage
 ```c
 > python3 ubuntu_mirror_tester.py jammy arm64
 [+] Target Distribution Ubuntu jammy and architecture arm64                                                                                                              
